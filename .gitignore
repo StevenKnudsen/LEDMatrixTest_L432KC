@@ -50,4 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 
+=======
+>>>>>>> 915fa2d191282fc96ce036279aaefa48881ccbee
